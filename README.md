@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I make fast 🚀 and accessible ♿️ applications. I'm really curious about GraphQL and decoupled applications these days.
+I make fast 🚀 and accessible ♿️ applications and am really curious about GraphQL and decoupled applications with JavaScript these days. I've started to try and give back by contributing to open source projects recently ♥️.
 
 * 🚵🏾‍♂️ I'm currently working on a lot of JAMStack projects, especially with WordPress as a data source.
 * 📕 I'm currently learning GraphQL, TypeScript and Laravel
