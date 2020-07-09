@@ -4,6 +4,7 @@ I *try* to make fast 🚀 and accessible ♿️ applications and am really curio
 
 #### More stuff about me 🏌️‍♂️
 🚵🏾‍♂️ Working on a lot of JAMStack projects, especially with WordPress as a data source.
+
 📕 Learning GraphQL, TypeScript and Laravel
 
 
