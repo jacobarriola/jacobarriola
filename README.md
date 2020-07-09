@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I make fast 🚀 and accessible ♿️ applications. I'm really curious about GraphQL and decoupled applications these days.
+
+* 🚵🏾‍♂️ I'm currently working on a lot of JAMStack projects, especially with WordPress as a data source.
+* 📕 I'm currently learning GraphQL, TypeScript and Laravel
+
+
 <!--
 **jacobarriola/jacobarriola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
