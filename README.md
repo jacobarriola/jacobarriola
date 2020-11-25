@@ -5,7 +5,7 @@ I *try* to make fast 🚀 and accessible ♿️ applications. I'm really curious
 I'm a full stack JavaScript developer, but definitely lean more to the UI side of things 💅🏽
 
 #### More stuff about me 🏌️‍♂️
-🚵🏾‍♂️ Working on a lot of Gatsby JAMStack projects, especially with WordPress as a data source.
+🚵🏾‍♂️ Working on a lot of JAMStack projects with Gatsby and NextJS, especially with WordPress as a data source.
 
 📕 Learning GraphQL, TypeScript and Laravel
 
