@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I *try* to make fast 🚀 and accessible ♿️ applications. I'm really curious about GraphQL and decoupled applications with JavaScript these days. I've started to try and give back by contributing to open source projects recently ♥️.
+I *try* to make fast 🚀 and accessible ♿️ applications. I'm really curious about GraphQL and decoupled applications with TypeScript/JavaScript these days. I've started to try and give back by contributing to open source projects recently ♥️.
 
-I'm a full stack JavaScript developer, but definitely lean more to the UI side of things 💅🏽
+I'm a full stack TypeScript/JavaScript developer, but definitely lean more to the UI side of things 💅🏽
 
 #### More stuff about me 🏌️‍♂️
 🚵🏾‍♂️ Working on a lot of JAMStack projects with Gatsby and NextJS, especially with WordPress as a data source.
 
 📕 Learning GraphQL, TypeScript and Laravel
+
 
 
 <!--
