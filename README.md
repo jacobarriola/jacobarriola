@@ -7,7 +7,7 @@ I'm a full stack TypeScript/JavaScript developer, but definitely lean more to th
 #### More stuff about me 🏌️‍♂️
 🚵🏾‍♂️ Working on a lot of JAMStack projects with Gatsby and NextJS, especially with WordPress as a data source.
 
-📕 Learning GraphQL, TypeScript and Laravel
+📕 Learning: Python 🐍
 
 
 
